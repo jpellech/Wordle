@@ -1,0 +1,1 @@
+/zfs/2022/jpellech/cs241/sp24-lab4-toadparade/wordle/target/debug/wordle: /zfs/2022/jpellech/cs241/sp24-lab4-toadparade/wordle/src/main.rs /zfs/2022/jpellech/cs241/sp24-lab4-toadparade/wordle/src/words.rs
